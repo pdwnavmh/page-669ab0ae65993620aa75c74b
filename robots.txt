@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://b.xn--synnetwork-cn3r594m.com/sitemap.xml
